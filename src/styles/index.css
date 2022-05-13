@@ -1,3 +1,14 @@
-/* 
-    General Styles
-*/
+#app{
+    background: url(https://media1.giphy.com/media/fLy7DvMOQvdrhxR6Zl/giphy.gif?cid=ecf05e47mqic4d01r9mse2k3f1eb3gpa0k4tjltcqxtkcmlb&rid=giphy.gif&ct=g);
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.navbar{
+    background-color: transparent !important;
+}
+.favbutton{
+    background-color: transparent !important;
+}
