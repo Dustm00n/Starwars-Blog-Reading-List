@@ -1,7 +1,7 @@
 import React, { useEffect, useContext } from "react";
 import { Link, useParams } from "react-router-dom";
 import { Context } from "../store/appContext";
-// import Planetimg from "../../img/Planetimg.jpg";
+import Planetimg from "../../img/Charactersimg.png";
 import "../../styles/planetsdetails.css";
 
 export const Planetsdetails = () => {
